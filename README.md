@@ -1,3 +1,5 @@
+<img width="1910" height="1027" alt="image" src="https://github.com/user-attachments/assets/1834ac5b-dd4f-47e2-b51d-b09bddef7e54" />
+
 # Cafe Tokenize
 
 MVP smart contract tren Soroban cho bai toan:
